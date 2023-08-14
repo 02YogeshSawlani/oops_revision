@@ -6,5 +6,6 @@ public class Dog extends Animal{
   //  public void fun() {
       // super.fun();
       //  System.out.println("Dog is born");
-
+      This is change;
+       It is anoyher changes ;
 }
